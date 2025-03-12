@@ -25,7 +25,9 @@ cd Downloads_Tools
 ```sh
 python Downloads_Tools.py
 ```
+![Screenshot 2025-03-13 020951](https://github.com/user-attachments/assets/91b5ecf8-ecc4-4360-a720-db5b0d0757eb)
 
+---
 ## 🎯 Usage
 When you run the script, you will see a menu with options:
 ```
