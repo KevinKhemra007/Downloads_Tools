@@ -18,7 +18,7 @@ pip install yt-dlp requests qrcode colorama tqdm
 ### 2️⃣ Clone This Repository
 ```sh
 git clone https://github.com/KevinKhemra007/Downloads_Tools.git
-cd Downloads_Tool
+cd Downloads_Tools
 ```
 
 ### 3️⃣ Run the Script
